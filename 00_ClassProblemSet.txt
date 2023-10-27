@@ -1,0 +1,87 @@
+01. Write a program to add two numbers.
+
+02. Write a program to take marks as input from the user and based on their mark tell them whether they passed or failed. 
+
+03. Write a program to take a number as input and tell if the entered number is even or odd. 
+
+04. Write a program to take a year as an input from the user and print whether that year is a leap year or not.
+
+
+05. Write a program to calculate electricity bill based on the given criteria:
+ Units ---------------- Rates
+ First 200  ----------  4.50/unit
+ 201 - 500  ----------  5.50/unit
+ 501 - 1000 ----------  7.00/unit
+ Above 1000 ----------  8.00/unit
+
+
+06. Write a program to calcualte wage of a labor according to the following criterias: 
+ Work Hours --------------------- Wage
+ First 8 Hours  ----------------  100/hr
+ Next 2 Hours   ----------------  150/hr
+ Next 2 Hours   ----------------  200/hr
+ Above 12 Hours ----------------  300/hr
+
+
+07. Write a program to make a calculator using switch case. 
+
+08. Write a program to prompt the user to enter a number and tell whether the entered number is prime or not. 
+
+09. Write a program to print all the prime numbers between 1 - 100.
+
+10. Write a program to test whether a number is a perfect number or not.
+
+11. Write a program to find the factors of a number. 
+
+12. Write a program to find the factorial of a number.
+
+13. Write a program to check whether a number is palindrome or not. 
+
+14. Write a program to find reverse of a number. 
+
+15. Write a program to find sum of digits of a number. 
+
+16. Write a program to find the number of digits of a number. 
+
+17. Write a program to find if a number is armstrong number or not. 
+
+18. Write a program to find sum of the fibonacci series 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55... n terms.
+
+19. Write a program to find sum of Lucas Series: 1, 3, 4, 7, 11......... n terms.
+
+20. Write a program to print 1, 12, 123, 1232, 12323........
+
+21. Write a program to print this pattern:
+ *
+ **
+ ***
+ ****
+
+22. Write a program to print the following pattern:
+ 1
+ 12
+ 123
+ 1234
+
+23. Write a program to print the following pattern:
+ 1
+ 22
+ 333
+ 4444
+
+24. Write a program to print A - Z
+
+25. Write a program to find the summation of all the elements in an array. 
+
+26. Write a program to search an element in an array.
+
+27. Write a program to reverse an array. 
+
+28. Write a program to find the average of all the odd elements in an array.
+
+29. Write a program to find the largest element in an array. 
+
+30. Write a program to find sum of all the elements in a 2D array.
+
+31. Write a program to find maximum element from a 2D array. 
+
