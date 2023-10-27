@@ -1,6 +1,6 @@
 01. Write a program to add two numbers.
 
-02. Write a program to take marks as input from the user and based on their mark tell them whether they passed or failed. 
+02. Write a program to take marks as input from the user and based on their mark tell them whether they passed or failed (Minimum Passing mark is 40). 
 
 03. Write a program to take a number as input and tell if the entered number is even or odd. 
 
