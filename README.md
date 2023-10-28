@@ -2,7 +2,7 @@
 
 This repository contains all the questions and solutions (source code) of the subject TIU-UCA-T107 Computer Fundamentals and Programming in C, which is taught in the first year of the BCA Hons Course at Techno India University.
 
-The repository consists of one folder and one text file. The folder contains all the C source code files, each named according to the question number. The text file contains all the questions or problem statements, also numbered accordingly.
+The repository consists of one folder and one text file. The folder `Solutions` contains all the C source code files, each named according to the question number. The text file contains all the questions or problem statements, also numbered accordingly.
 
 ## 🧑‍💻 How to use the source code
 
