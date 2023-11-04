@@ -19,7 +19,7 @@ int main(){
 
     if (num<=1)
     {
-        printf("In order to be Prime a number has to be greater than 1.\n");
+        printf("In order to be Prime, a number has to be greater than 1.\n");
     }
     else
     {
