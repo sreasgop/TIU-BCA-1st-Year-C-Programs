@@ -3,12 +3,12 @@
 #include <stdio.h>
 
 int main() {
-   long long int userinput, factor, factor_sum=0;
+   long long int userinput, factor, factor_sum=0, i;
 
     printf("Enter a number: ");
     scanf("%lld", &userinput);
 
-    for(int i=1; i<userinput; i++){
+    for(i=1; i<userinput; i++){
         if(userinput%i==0){
             factor_sum += i;
         }
