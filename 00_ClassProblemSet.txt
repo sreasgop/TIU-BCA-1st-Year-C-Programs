@@ -83,5 +83,7 @@
 
 30. Write a program to find sum of all the elements in a 2D array.
 
-31. Write a program to find maximum element from a 2D array. 
+31. Write a program to find maximum element from a 2D array.
+
+32. Write a program to find the tranpose of a matrix (2D array).
 
