@@ -108,3 +108,5 @@
 42. Write a program to print the successor of each element of an array
 
 43. Find minumum value of an array by using function and also use call by reference
+
+44. Find the sum of the elements of an array using call by referance
