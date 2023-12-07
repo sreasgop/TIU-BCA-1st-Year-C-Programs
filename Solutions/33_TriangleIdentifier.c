@@ -1,15 +1,21 @@
 // 33. Write the code to identify the type of triangle scalene isosceles  or equilateral
 #include<stdio.h>
 int main(){
+
     int first, second, third;
+
     printf("First angle of the triangle(Don't Enter unit): ");
     scanf("%d",&first);
+
     printf("Second angle of the triangle(Don't Enter unit): ");
     scanf("%d",&second);
+
     printf("Third angle of the triangle(Don't Enter unit): ");
     scanf("%d",&third);
+
     if ((first+second+third)==180)
     {
+
         if (first == second && second == third)
         {
             printf("Triange is equilateral!");
@@ -21,9 +27,9 @@ int main(){
         else{
             printf("Given triangle is scalene");
         }
-        
-        
+         
     }
+    
     else{
         printf("Not a triangle");
     }

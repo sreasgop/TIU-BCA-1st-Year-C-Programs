@@ -87,3 +87,20 @@
 
 32. Write a program to find the tranpose of a matrix (2D array).
 
+33. Write the code to identify the type of triangle scalene isosceles  or equilateral
+
+34. Write the code to find if the roots are real or imaginary, if real find the roots using Sridharacharya.
+
+35. Write the code to convert foot to cm.
+
+36. Write the code to find the maximum of 3 numbers.
+
+37. Sum of elements from 1 to 10
+
+38. Sum of elements from 1 to n
+
+39. Product of elements from 1 to n.
+
+40. Factorial of a number
+
+41. Factorial Sum series of : 1! + 3! + 5! + 7! + .... + to n terms
