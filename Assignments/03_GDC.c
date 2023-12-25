@@ -4,7 +4,7 @@
 int main() {
     int num1, num2, dividend, divisor, remainder; 
 
-    printf("Enter two numbers: ");
+    printf("\nEnter two numbers: ");
     scanf("%d %d", &num1, &num2);
 
     if (num1>num2)
@@ -23,7 +23,7 @@ int main() {
         divisor = remainder; 
     }
     
-    printf("\nGCD of %d and %d: %d\n", num1, num2, dividend);
+    printf("\nGCD of %d and %d: %d\n\n", num1, num2, dividend);
 
     return 0;
 }
