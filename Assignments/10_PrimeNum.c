@@ -8,7 +8,7 @@ int main() {
     scanf("%d", &num);
 
     if(num<=1){
-        printf("A prime number is meant to be greater than 1. ");
+        printf("A prime number is meant to be a natural number greater than 1. ");
     } else {
         for(i=2; i<=num/2; i++){
             if(num%i==0){
