@@ -2,27 +2,27 @@
 
 #include <stdio.h>
 int main() {
-    int num, i, is_prime=1;
+    int num, i, is_prime;
     
     printf("\nEnter any number: ");
     scanf("%d", &num);
 
     if(num<=1){
-        printf("A prime number is meant to be a natural number greater than 1. ");
+        is_prime = 0;
     } else {
+        is_prime = 1;
         for(i=2; i<=num/2; i++){
             if(num%i==0){
                 is_prime = 0;
                 break;
             }
         }
-
-        if(is_prime==1){
-            printf("Entered number is prime.");
-        } else{
-            printf("Entered number is not prime!");
-        }
-
+    }
+    
+    if(is_prime==1){
+        printf("Entered number is prime.\n\n");
+    } else{
+        printf("Entered number is not prime!\n\n");
     }
 
     
