@@ -8,7 +8,7 @@ int main() {
     scanf("%d %d", &starting_interval, &ending_interval);
 
     if(starting_interval>=ending_interval){
-        printf("Invalid Interval Input!");
+        printf("Invalid Interval Input!\n");
     } else {
         for(i=starting_interval; i<=ending_interval; i++){
             is_prime=0;
