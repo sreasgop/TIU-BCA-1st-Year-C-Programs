@@ -1,7 +1,8 @@
 // C Program to Display Prime Numbers Between Intervals Using Function
 
 #include <stdio.h>
-void prime(int, int);
+
+void prime_interval(int, int);
 
 int main() {
     int a, b;
@@ -11,7 +12,7 @@ int main() {
     return 0;
 }
 
-void prime(int num1, int num2){
+void prime_interval(int num1, int num2){
     int is_prime, i, j;
     if(num1>=num2){
         printf("Invalid Interval Input!");
