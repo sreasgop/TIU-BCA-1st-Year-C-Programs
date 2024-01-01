@@ -8,7 +8,7 @@ int main() {
     int a, b;
     printf("\nEnter the starting and ending interval: ");
     scanf("%d %d", &a, &b);
-    prime(a, b);
+    prime_interval(a, b);
     return 0;
 }
 
@@ -24,6 +24,7 @@ void prime_interval(int num1, int num2){
                 for(j=2; j<=i/2; j++){
                     if(i%j==0){
                         is_prime = 0;
+                        break;
                     }
                 }
             }
