@@ -8,7 +8,7 @@ int main(){
     printf("\nEnter the no. of elements: ");
     scanf("%d", &n);
     
-    printf("\nEnter the array: ");
+    printf("Enter the array: ");
     for (i = 0; i < n; i++)
     {
         scanf("%d", &arr[i]);
@@ -16,12 +16,12 @@ int main(){
 
     largest = arr[0];
 
-    for(i=1; i<=n; i++){
+    for(i=1; i<n; i++){
         if(arr[i]>largest){
             largest = arr[i];
         }
     }
 
-    printf("\nThe largest element in the array: %d\n\n", largest);
+    printf("The largest element in the array: %d\n\n", largest);
     return 0;
 }
