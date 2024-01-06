@@ -14,15 +14,15 @@ void multiplyMatrices(int mat1[MAX_ROWS][MAX_COLS], int mat2[MAX_ROWS][MAX_COLS]
     }
 
     // Initialize result matrix with zeros
-    for (int i = 0; i < rows1; ++i) {
-        for (int j = 0; j < cols2; ++j) {
+    for (int i = 0; i < rows1; i++) {
+        for (int j = 0; j < cols2; j++) {
             result[i][j] = 0;
         }
     }
 
     // Perform matrix multiplication
-    for (int i = 0; i < rows1; ++i) {
-        for (int j = 0; j < cols2; ++j) {
+    for (int i = 0; i < rows1; i++) {
+        for (int j = 0; j < cols2; j++) {
             for (int k = 0; k < cols1; ++k) {
                 result[i][j] += mat1[i][k] * mat2[k][j];
             }
@@ -32,8 +32,8 @@ void multiplyMatrices(int mat1[MAX_ROWS][MAX_COLS], int mat2[MAX_ROWS][MAX_COLS]
 
 // Function to display a matrix
 void displayMatrix(int mat[MAX_ROWS][MAX_COLS], int rows, int cols) {
-    for (int i = 0; i < rows; ++i) {
-        for (int j = 0; j < cols; ++j) {
+    for (int i = 0; i < rows; i++) {
+        for (int j = 0; j < cols; j++) {
             printf("%d\t", mat[i][j]);
         }
         printf("\n");
@@ -50,8 +50,8 @@ int main() {
 
     // Input elements of the first matrix
     printf("Enter the elements of the first matrix:\n");
-    for (int i = 0; i < rows1; ++i) {
-        for (int j = 0; j < cols1; ++j) {
+    for (int i = 0; i < rows1; i++) {
+        for (int j = 0; j < cols1; j++) {
             scanf("%d", &mat1[i][j]);
         }
     }
@@ -62,8 +62,8 @@ int main() {
 
     // Input elements of the second matrix
     printf("Enter the elements of the second matrix:\n");
-    for (int i = 0; i < rows2; ++i) {
-        for (int j = 0; j < cols2; ++j) {
+    for (int i = 0; i < rows2; i++) {
+        for (int j = 0; j < cols2; j++) {
             scanf("%d", &mat2[i][j]);
         }
     }
