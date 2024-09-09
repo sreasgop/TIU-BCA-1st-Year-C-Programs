@@ -15,7 +15,7 @@
  Above 1000 ----------  8.00/unit
 
 
-06. Write a program to calcualte wage of a labor according to the following criterias: 
+06. Write a program to calculate wage of a labor according to the following criterias: 
  Work Hours --------------------- Wage
  First 8 Hours  ----------------  100/hr
  Next 2 Hours   ----------------  150/hr
