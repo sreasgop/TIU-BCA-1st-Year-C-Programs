@@ -89,7 +89,7 @@
 
 33. Write the code to identify the type of triangle scalene isosceles  or equilateral
 
-34. Write the code to find if the roots are real or imaginary, if real find the roots using Sridharacharya.
+34. Write the code to find if the roots are real or imaginary, if real find the roots using Sridharacharya's Formula.
 
 35. Write the code to convert foot to cm.
 
