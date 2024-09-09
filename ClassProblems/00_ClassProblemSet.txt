@@ -95,18 +95,18 @@
 
 36. Write the code to find the maximum of 3 numbers.
 
-37. Sum of elements from 1 to 10
+37. Sum of elements from 1 to 10.
 
-38. Sum of elements from 1 to n
+38. Sum of elements from 1 to n.
 
 39. Product of elements from 1 to n.
 
-40. Factorial of a number
+40. Factorial of a number.
 
-41. Factorial Sum series of : 1! + 3! + 5! + 7! + .... + to n terms
+41. Factorial Sum series of : 1! + 3! + 5! + 7! + .... + to n terms.
 
-42. Write a program to print the successor of each element of an array
+42. Write a program to print the successor of each element of an array.
 
-43. Find miniumum value of an array by using function and also use call by reference
+43. Find miniumum value of an array by using function and also use call by reference.
 
 44. Find the sum of the elements of an array using call by reference.
