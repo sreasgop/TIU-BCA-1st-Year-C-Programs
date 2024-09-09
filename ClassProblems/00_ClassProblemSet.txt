@@ -109,4 +109,4 @@
 
 43. Find minumum value of an array by using function and also use call by reference
 
-44. Find the sum of the elements of an array using call by referance
+44. Find the sum of the elements of an array using call by reference.
