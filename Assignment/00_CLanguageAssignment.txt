@@ -1,15 +1,15 @@
 C -LANGUAGE ASSIGNMENTS
 =========================
-1. C Program to Display Fibonacci Sequence
-2. C Program to Make a Simple Calculator Using switch...case
-3. C Program to Find GCD of two Numbers
-4. C Program to Find LCM of two Numbers
-5. C Program to Display Character from A to Z Using Loop
-6. C Program to Count Number of Digits of an Integer
-7. C Program to Reverse a Number
-8. C Program to Calculate the Power of a Number
-9. C Program to Check Whether a Number is Palindrome or Not
-10. C Program to Check Whether a Number is Prime or Not
+1. C Program to Display Fibonacci Sequence.
+2. C Program to Make a Simple Calculator Using switch...case.
+3. C Program to Find GCD of two Numbers.
+4. C Program to Find LCM of two Numbers.
+5. C Program to Display Character from A to Z Using Loop.
+6. C Program to Count Number of Digits of an Integer.
+7. C Program to Reverse a Number.
+8. C Program to Calculate the Power of a Number.
+9. C Program to Check Whether a Number is Palindrome or Not.
+10. C Program to Check Whether a Number is Prime or Not.
 11. C Program to Display Prime Numbers Between Two Intervals
 12. C Program to Check Armstrong Number
 13. C Program to Display Armstrong Number Between Two Intervals
@@ -37,7 +37,7 @@ C -LANGUAGE ASSIGNMENTS
 35. C Program to Multiply two Matrix Using Multi-dimensional Arrays 
 36. Write a recursive function to find the sum of n natural numbers.
 37.Write a program to calculate power (ab) using recursion.
-38. Write a program concatenate two inputted strings without using strcat().
+38. Write a program to concatenate two inputted strings without using strcat().
 39. Write a program to check whether a given string is a “palindrome” or not. E.g. MADAM is an example of palindrome.
 40. Write a program to find the sum of two diagonals of a square matrix.
 41. Print the series: 3,34,343,3434,34343,……. up to n number of terms. 
