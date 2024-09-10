@@ -85,7 +85,7 @@
 
 31. Write a program to find maximum element from a 2D array.
 
-32. Write a program to find the tranpose of a matrix (2D array).
+32. Write a program to find the transpose of a matrix (2D array).
 
 33. Write the code to identify the type of triangle scalene isosceles  or equilateral
 
