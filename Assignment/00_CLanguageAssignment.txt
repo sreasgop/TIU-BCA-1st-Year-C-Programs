@@ -8,16 +8,16 @@ C -LANGUAGE ASSIGNMENTS
 6. C Program to Count Number of Digits of an Integer
 7. C Program to Reverse a Number
 8. C Program to Calculate the Power of a Number
-9. C Program to Check Whether a Number is Palindrome or Not
-10. C Program to Check Whether a Number is Prime or Not
-11. C Program to Display Prime Numbers Between Two Intervals
-12. C Program to Check Armstrong Number
-13. C Program to Display Armstrong Number Between Two Intervals
-14. C Program to Display Factors of a Number
-15. C Program to Create Pyramid Structure
-16. C Program to Find the Frequency of Characters in a String 
-17. C program to count the number of vowels & consonants 
-18. C Program to Remove all Characters in a String Except Alphabet 
+9. C Program to Check Whether a Number is Palindrome or Not.
+10. C Program to Check Whether a Number is Prime or Not.
+11. C Program to Display Prime Numbers Between Two Intervals.
+12. C Program to Check Armstrong Number.
+13. C Program to Display Armstrong Number Between Two Intervals.
+14. C Program to Display Factors of a Number.
+15. C Program to Create Pyramid Structure.
+16. C Program to Find the Frequency of Characters in a String.
+17. C program to count the number of vowels & consonants.
+18. C Program to Remove all Characters in a String Except Alphabet. 
 19. C Program to Find the Length of a String 
 20. C Program to Concatenate Two Strings 
 21. C Program to Copy String Without Using strcpy()
